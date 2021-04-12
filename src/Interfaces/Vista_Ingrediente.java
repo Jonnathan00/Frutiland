@@ -292,10 +292,7 @@ public class Vista_Ingrediente extends javax.swing.JInternalFrame {
 
         tblingredientes.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {null, null, null, null, null, null},
-                {null, null, null, null, null, null},
-                {null, null, null, null, null, null},
-                {null, null, null, null, null, null}
+
             },
             new String [] {
                 "ID PRODUCTO", "NOMBRE", "BENEFICIO", "PORCION", "PRECIO", "FOTO"
